@@ -90,8 +90,8 @@
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishaverma23&bg_color=0D1117&color=FFFFFF&line=FF6B6B&point=FF6B6B&area=true&hide_border=true" />
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishaverma23&bg_color=0D1117&color=FFFFFF&line=FF6B6B&point=FF6B6B&area=true&hide_border=true" /> 
 </p>
 
 
